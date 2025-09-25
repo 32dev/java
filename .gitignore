@@ -1,6 +1,6 @@
 .class
-.idea
-out
+.idea/
+out/
 .classpath
 .project
 java.iml
